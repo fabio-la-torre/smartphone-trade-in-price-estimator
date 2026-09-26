@@ -1,5 +1,6 @@
 # Smartphone Trade-in Price Estimator
-Building AI course project - Estimates the trade-in value of a used smartphone
+
+Building AI course project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabio-la-torre/smartphone-trade-in-price-estimator/blob/main/trade_in_price_estimator.ipynb)
 
@@ -107,9 +108,15 @@ Ethical aspect: an estimate communicated with too much confidence could create w
 To move forward, the project would need web development skills for the interface, computer vision skills for photo analysis, and above all access to real and up-to-date trade-in data.
 
 
+## Use of AI tools
+
+This project was developed with the support of Claude (Anthropic). Claude wrote the Python code following my directions, explained the concepts used (linear regression, R², least squares), reviewed the README text and translated it into English.
+
+The idea, the choice of features, the design of the experiments, the decisions on the model (such as excluding tablets) and the evaluation of the estimates based on my trade-in experience are my own. I used this project as a way to learn: every line of code was explained to me, and I can justify every choice.
+
+
 ## Acknowledgments
 
 * Dataset: [Used Phones & Tablets Pricing Dataset](https://www.kaggle.com/datasets/ahsan81/used-handheld-device-data) by Ahsan Raza on Kaggle, license [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 * [Building AI](https://buildingai.elementsofai.com/) course by Reaktor and the University of Helsinki
 * Python libraries: pandas, NumPy, scikit-learn
-* Developed with the support of Claude (Anthropic) as an assistant for the code and for explaining the concepts
