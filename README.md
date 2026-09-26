@@ -20,8 +20,6 @@ The problems this project addresses:
 
 My motivation is to understand what is inside that black box: how can an algorithm arrive at a price starting only from the features of a phone?
 
-There is also an environmental side: every resold smartphone keeps being used instead of becoming waste, and it is one less phone to produce.
-
 
 ## How is it used?
 
